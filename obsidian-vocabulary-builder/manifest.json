@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-vocabulary-builder",
+    "name": "Simple Vocabulary Builder",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "一个简约好看的图形化生词查询与录入工具，数据存储为 Markdown 表格。",
+    "author": "AI Assistant",
+    "isDesktopOnly": false
+}
